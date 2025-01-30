@@ -46,7 +46,7 @@ Follow these steps to install and run the app:
 
 ### **Clone the repository**
 ```sh
-git clone https://github.com/your-github-username/todo_app.git
+git clone https://github.com/Nwajeiiii/todo_app.git
 cd todo_app
 ```
 
